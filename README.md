@@ -19,7 +19,8 @@
            temperatures fluctuated from 75 to 85 degrees while in December, temperatures fluctuated 
            from 71 to 83 degrees.
            
-           ![](image.png).         June_temps.png![image](https://user-images.githubusercontent.com/71910209/109550405-d9a2b680-7a94-11eb-94d7-8fd986a5c447.png)
+           ![](image.png)                   ![](June_temps.png)
+)
 
               
 ## Summery:
