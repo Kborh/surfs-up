@@ -20,7 +20,7 @@
            from 71 to 83 degrees.
            
            ![](image.png)                   ![](June_temps.png)
-)
+
 
               
 ## Summery:
