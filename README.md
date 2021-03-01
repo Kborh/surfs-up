@@ -5,7 +5,7 @@
       June and December in Oahu will sustain a year-round ice cream shop and surfing business.
       
       
-      ![](image.png)
+      
       
       
 ## Results:
@@ -18,14 +18,17 @@
          . Both June and December temperatures fluctuated. The difference is that in June, the 
            temperatures fluctuated from 75 to 85 degrees while in December, temperatures fluctuated 
            from 71 to 83 degrees.
+           
+           ![](image.png)
               
 ## Summery:
-      Comparing the statistical summaries, the average temperature do not indicate the time when the temperatures were taken. 
-      If the temperature was taken in the morning, it could change to up to 10 – 20 degrees in the afternoon.
-      The lowest temperature recorded in December was 60 degrees, it might be cool for the local population but 
-      for some tourists will find it perfect for vacation and even eating ice cream.  I would suggest running statistical 
-      summaries for a few more months and if the data is available to correlate the temperature averages against the number of
-      tourists visiting Oahu at that time.  It might help as well if the locals also partake in consuming ice cream at the same as the tourist.
-
+      comparing the statistical summeries, the average temperature do not indicate the time when the 
+      temperature were taken. If the temperature was taken in the morning, it could change from 10 - 20 
+      degrees in the afretnoon. The lowerest tmeperature recorded in December was 56 degrees, which might 
+      have been cool for the local population, but some tourists will find it perfect for vactioning and 
+      ice cream. I would recommand running statistical analysis for a few more months, and see if the outcome 
+      correlate with the temperature averages against the number of tourists visiting Oahu at the time. 
+      
+      
 
 
