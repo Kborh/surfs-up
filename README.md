@@ -4,6 +4,10 @@
       The purpose of the statisrtical analysis is to explore the tem[erature data in the months of
       June and December in Oahu will sustain a year-round ice cream shop and surfing business.
       
+      
+      ![](image.png)
+      
+      
 ## Results:
     The three key differences in weather between June and December are listed below:
       • The total count between June and December are different.  December has 1517 total count while June has 1700 count.
@@ -12,17 +16,7 @@
       • Both June and December temperatures fluctuated.  The difference is that in June, the temperatures fluctuated from 75 to 
         85 degrees while in December, temperatures fluctuated from 71 to 83 degrees.
         
-        
-        
-        
-        
-        
-        
-        ![](image.png)
-        
-        
-        
-        
+               
 ## Summery:
       Comparing the statistical summaries, the average temperature do not indicate the time when the temperatures were taken. 
       If the temperature was taken in the morning, it could change to up to 10 – 20 degrees in the afternoon.
