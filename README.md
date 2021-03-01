@@ -1,8 +1,8 @@
 # surfs_up
 
 ## Overview of Statistical Analysis:
-      The purpose of the statistical analysis is to explore the temperature data in the months of 
-      June and December in Oahu will sustain a year-round ice cream shop business.
+      The purpose of the statisrtical analysis is to explore the tem[erature data in the months of
+      June and December in Oahu will sustain a year-round ice cream shop and surfing business.
       
 ## Results:
     The three key differences in weather between June and December are listed below:
