@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Overview of Statistical Analysis:
-      The purpose of the statisrtical analysis is to explore the tem[erature data in the months of
+      The purpose of the statisrtical analysis is to explore the temperature data in the months of
       June and December in Oahu will sustain a year-round ice cream shop and surfing business.
       
       
@@ -23,8 +23,8 @@
 
 
               
-## Summery:
-      comparing the statistical summeries, the average temperature do not indicate the time when the 
+## Summary:
+      comparing the statistical summaries, the average temperature do not indicate the time when the 
       temperature were taken. If the temperature was taken in the morning, it could change from 10 - 20 
       degrees in the afretnoon. The lowerest tmeperature recorded in December was 56 degrees, which might 
       have been cool for the local population, but some tourists will find it perfect for vactioning and 
